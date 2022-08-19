@@ -11,6 +11,10 @@ header {text-align:center;}
 p {color:gold;
 font-style: italic;}
 /* Put a border around your image */
-img {border: 5px solid gold;}
+img {border: 5px solid gold;
+width: 400px;
+height:300px;
+}
+
 /* Change the font-family of your list */
 ul {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
